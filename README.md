@@ -1,11 +1,11 @@
 # Forms.io - Modern Form Builder
 
-![Forms.io Banner](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=400&fit=crop&crop=center)
+<img src="Screenshot%202025-08-08%20201927.png" alt="forms.io Landing Page" width="100%" />
 
 A powerful, modern form builder application with a brutalist design aesthetic. Built with React, TypeScript, and Supabase for creating, sharing, and managing forms with real-time validation and response collection.
 
 ## 🚀 Created by Shahid Afrid
-
+**Live site**: (https://formsio.vercel.app)
 **Portfolio**: [shahid-topaz.vercel.app](https://shahid-topaz.vercel.app)  
 **LinkedIn**: [linkedin.com/in/shahid-afrid-218186308](https://linkedin.com/in/shahid-afrid-218186308)  
 **GitHub**: [github.com/akhi-shxhid](https://github.com/akhi-shxhid)
@@ -68,6 +68,13 @@ A powerful, modern form builder application with a brutalist design aesthetic. B
 - **Autoprefixer** - CSS vendor prefixing
 
 ---
+
+## dashboard 
+
+<div align="center">
+  <img src="Screenshot%202025-08-08%20201946.png" alt="forms.io Dashboard" width="80%" />
+</div>
+
 
 ## 🚀 Getting Started
 
